@@ -1,0 +1,9 @@
+- 👋 Hi, I’m HOANG THE LONG
+- this is Pet-management-Website
+- this project using HTML,CSS,JAVASCRIPT
+- This project has the following features:
+- 1.Add pet
+- 2.validate information pet
+- 3.Show Healthy Pet
+- 4.Calculate BMI of Pet
+- 5.Delete pet
